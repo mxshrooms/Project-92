@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Game Page</title>
+        <link rel="stylesheet" href="style2.css">
+    </head>
+    <body>
+        <div class="container">
+            <img src="gamebg.png" id="gamebg" style="width:100%;">
+            <div class="centered">The Maths Quiz!</div>
+            <div class="centered2">Are you ready for the challenge?</div>
+        </div>
+        <div id="scoreplayer">
+        <h1 id="player1name"></h1>
+        <h1 id="player1score"></h1>
+        <h1 id="player2name"></h1>
+        <h1 id="player2score"></h1>
+        </div>
+            <h1 id="questionturn">Question Turn:</h1>
+            <h1 id="answerturn">Answer Turn:</h1>
+            <div id="output">
+            </div>
+            <br>
+            <input id="n1" placeholder="Type your first number here"></input>
+            <input id="n2" placeholder="Type your second number here"></input>
+            <button id="sendbutton" onclick="send()">Send</button>
+            <script src="gamepage.js"></script>
+    </body>
+</html>

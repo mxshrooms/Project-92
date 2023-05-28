@@ -1,0 +1,115 @@
+#mathsimg {
+    height:100%;
+    width:50%;
+}
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color:rgb(255, 255, 255);
+    font-weight:bold;
+    font-size:60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+.desc {
+    position: absolute;
+    top: 55%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color:rgb(255, 255, 255);
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    width:35%;
+    text-align:center;
+}
+#bgimg {
+    width:50%;
+    float:right;
+    margin-top:-609px;
+    height:100%;
+}
+.right {
+    position: absolute;
+    top: 20%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color:rgb(0, 0, 0);
+    font-size:35px;
+    font-weight:bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    width:35%;
+    text-align:center;
+}
+.pleaselogin {
+    position: absolute;
+    top: 29%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color:rgb(0, 0, 0);
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align:center;
+    font-weight:lighter;
+}
+#p1 {
+    position: absolute;
+    top: 40%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color:rgb(0, 0, 0);
+    font-size:15px;
+    width:25%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#p2 {
+    position: absolute;
+    top: 48%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color:rgb(0, 0, 0);
+    font-size:15px;
+    width:25%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#loginbutton {
+    position: absolute;
+    top: 58%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    font-size:15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius:50px;
+    height:40px;
+    width:200px; 
+    background-color:#A890FE;
+    background-image: linear-gradient(to left, #A890FE, #C68FCA, #EA8D8D);
+    color:white;
+    font-weight:bold;
+    border:transparent;
+}
+#rec {
+    position: absolute;
+    top: 68%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:40px;
+    width:200px; 
+    width:35%;
+    text-align:center;
+    }
+#usernameideas {
+    position: absolute;
+    top: 75%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    font-size:15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:40px;
+    width:200px; 
+    width:35%;
+    text-align:center;
+    font-weight:lighter;
+}

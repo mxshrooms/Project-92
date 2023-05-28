@@ -1,0 +1,68 @@
+#output {
+    background-color:antiquewhite;
+    border-radius:10px;
+    border-top: 10px solid #4287f5;
+    padding: 10px;
+    float: none;
+    transform: translate(325px,300px);
+    text-align:left;
+    width:50%;
+}
+body {
+    text-align:center;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -360%);
+    font-size:60px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:white;
+}  
+#gamebg {
+    height:35%;
+}
+.centered2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -540%);
+    font-size:25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    color:white;
+}  
+body {
+    background-color:white;
+}
+#scoreplayer {
+    margin-right:4000px;
+    margin-left:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size:15px;
+}
+#questionturn {
+    margin-bottom:40px;
+    margin-top:-220px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align:center;
+}
+#answerturn {
+    margin-bottom:40px;
+    margin-top:-20px;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+#n1 {
+    margin-top:130px;
+}
+#output {
+    margin-bottom:70px;
+    margin-top:-260px;
+    border-top: solid 10px #C68FCA;
+}
